@@ -793,7 +793,7 @@ if halaman == "Summary":
     # MARKET SUMMARY
    
     st.markdown("---")
-    st.subheader("Market Summary")
+    st.subheader("Market Resolusion")
 
     # Data terbaru
     previous_close = data_dashboard["Close"].iloc[-2]
