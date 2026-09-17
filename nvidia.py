@@ -2,7 +2,7 @@
 # 1. Import Libraries
 # ===============================================
 # Menjalankan streamlit :
-# py -m streamlit run nvidia.py     (untuk menjalankan streamlit)
+# py -m streamlit run nvidia.py    (untuk menjalankan streamlit)
 
 # Menyimpan output terminal:
 # py nvidia.py |Tee-Object -FilePath ".\output_terminal.txt"
